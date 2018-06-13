@@ -5,3 +5,5 @@ Quarta linha
 Quinta linha
 Inclusão de alterações via repositório remoto
 Inclusão de nova linha via repositório remoto
+Edi��o no branch local
+Inserindo nova linha no local
